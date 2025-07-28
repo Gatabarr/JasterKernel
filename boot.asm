@@ -1,5 +1,3 @@
-
-
 bits 32
 section .text
         ;multiboot spec
