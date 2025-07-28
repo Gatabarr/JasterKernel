@@ -1,5 +1,4 @@
-; Copyright (C) 2014  Arjun Sreedharan
-; License: GPL version 2 or higher http://www.gnu.org/licenses/gpl.html
+
 
 bits 32
 section .text
